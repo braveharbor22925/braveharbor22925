@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey
 
-<!--
-**braveharbor22925/braveharbor22925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a regular developer learning and building stuff in my free time.
 
-Here are some ideas to get you started:
+#### About me
+- Currently focused on improving my coding skills
+- Experimenting with small personal projects
+- Always open to learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech stack
+- Python
+- JavaScript
+- Git
+- Linux
+
+#### Projects
+Nothing worth showing yet. Check back later.
